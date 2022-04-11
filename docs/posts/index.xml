@@ -18,5 +18,15 @@
 ¡Saludos!</description>
     </item>
     
+    <item>
+      <title>Mi ruta de aprendizaje</title>
+      <link>https://ulisesmachain.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ulisesmachain.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Desde que llegue a LaunchX he aprendido valores que los MC aplican en sus lives he conocido lenguajes y me he sumergido aprendiendo programacion en python, html, css, javascrpit tambien herramientas que ayudan en el proceso para mejorar el desarrollo de software
+¡Saludos!</description>
+    </item>
+    
   </channel>
 </rss>
